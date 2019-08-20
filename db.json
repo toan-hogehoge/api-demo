@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "5d5b8ad377b1d84aaed7fddf",
+    "index": 0,
+    "guid": "9b708b66-0f05-4c8a-ae46-65ffbecb31ce",
+    "isActive": true,
+    "balance": "$1,203.87",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "brown",
+    "name": "Roach Puckett",
+    "gender": "male",
+    "company": "TERAPRENE",
+    "email": "roachpuckett@teraprene.com",
+    "phone": "+1 (971) 517-2333",
+    "address": "946 Lefferts Avenue, Frank, Wyoming, 9866",
+    "about": "Nostrud fugiat sint consectetur eiusmod nisi elit consectetur do pariatur exercitation. Elit amet exercitation est proident. Quis esse mollit irure sint. Enim aute eu voluptate ullamco. Ea fugiat enim ipsum ea. Laboris cillum adipisicing dolore deserunt eu irure officia pariatur ad. Nisi irure enim ullamco laboris cupidatat et amet elit tempor ea fugiat quis do veniam.\r\n",
+    "registered": "2017-08-04T05:56:48 -09:00",
+    "latitude": -12.720469,
+    "longitude": -174.943166,
+    "tags": [
+      "eiusmod",
+      "ad",
+      "nulla",
+      "sunt",
+      "ut",
+      "incididunt",
+      "nisi"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Essie Compton"
+      },
+      {
+        "id": 1,
+        "name": "Morrison Gutierrez"
+      },
+      {
+        "id": 2,
+        "name": "Mcdowell Griffith"
+      }
+    ],
+    "greeting": "Hello, Roach Puckett! You have 9 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5d5b8ad332594d1c34d8a44e",
+    "index": 1,
+    "guid": "bc860e3e-ec11-4636-9971-b7b5f0c44172",
+    "isActive": true,
+    "balance": "$3,280.52",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "green",
+    "name": "Stefanie Hunter",
+    "gender": "female",
+    "company": "LIMAGE",
+    "email": "stefaniehunter@limage.com",
+    "phone": "+1 (967) 583-3885",
+    "address": "108 Metrotech Courtr, Jessie, Michigan, 102",
+    "about": "Fugiat nulla labore nostrud quis deserunt eiusmod tempor adipisicing exercitation ut ea eiusmod aliquip. Voluptate aliqua enim ex quis magna elit in est. Ad exercitation dolor tempor veniam in pariatur aliquip irure.\r\n",
+    "registered": "2015-12-30T09:55:36 -09:00",
+    "latitude": -36.733076,
+    "longitude": 5.624552,
+    "tags": [
+      "duis",
+      "incididunt",
+      "proident",
+      "fugiat",
+      "commodo",
+      "amet",
+      "anim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Josefa Madden"
+      },
+      {
+        "id": 1,
+        "name": "Bolton Ryan"
+      },
+      {
+        "id": 2,
+        "name": "Susana Holmes"
+      }
+    ],
+    "greeting": "Hello, Stefanie Hunter! You have 1 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5d5b8ad3d536677e90207386",
+    "index": 2,
+    "guid": "f39600a9-0b0e-413d-9872-b47b95b2bdd5",
+    "isActive": false,
+    "balance": "$2,817.87",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "blue",
+    "name": "Bertha Benjamin",
+    "gender": "female",
+    "company": "ORONOKO",
+    "email": "berthabenjamin@oronoko.com",
+    "phone": "+1 (998) 569-3797",
+    "address": "208 Campus Road, Genoa, Alaska, 1382",
+    "about": "Esse adipisicing aliquip anim fugiat in elit laboris voluptate aute. Eu eu consectetur id dolore. Voluptate ut occaecat cupidatat et. Est occaecat cillum labore cupidatat deserunt ex dolore dolore dolor ut sunt.\r\n",
+    "registered": "2014-01-03T11:50:05 -09:00",
+    "latitude": -58.638953,
+    "longitude": 95.175545,
+    "tags": [
+      "laboris",
+      "consectetur",
+      "nostrud",
+      "duis",
+      "id",
+      "nulla",
+      "sunt"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Christine Delacruz"
+      },
+      {
+        "id": 1,
+        "name": "Frederick Henderson"
+      },
+      {
+        "id": 2,
+        "name": "Sanchez Middleton"
+      }
+    ],
+    "greeting": "Hello, Bertha Benjamin! You have 7 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5d5b8ad3a88567752fe63100",
+    "index": 3,
+    "guid": "ece52f1f-2025-4c76-ada3-2cc0182baed1",
+    "isActive": false,
+    "balance": "$2,925.71",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "blue",
+    "name": "Claudia Nelson",
+    "gender": "female",
+    "company": "LOCAZONE",
+    "email": "claudianelson@locazone.com",
+    "phone": "+1 (858) 567-2525",
+    "address": "427 Seigel Street, Sylvanite, Idaho, 3716",
+    "about": "Ex eiusmod do velit labore sit tempor. Lorem minim sint do duis minim velit. Qui duis dolore duis excepteur ex sit ipsum incididunt sint irure reprehenderit Lorem deserunt. Id aliquip nulla esse eu ex aliqua ea esse eu veniam et laboris ullamco adipisicing.\r\n",
+    "registered": "2015-08-14T07:15:23 -09:00",
+    "latitude": 6.526281,
+    "longitude": 142.873728,
+    "tags": [
+      "aliqua",
+      "cupidatat",
+      "excepteur",
+      "do",
+      "aliquip",
+      "exercitation",
+      "elit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Tate Riley"
+      },
+      {
+        "id": 1,
+        "name": "Manuela Mosley"
+      },
+      {
+        "id": 2,
+        "name": "Fox Humphrey"
+      }
+    ],
+    "greeting": "Hello, Claudia Nelson! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5d5b8ad3109f224c565a0b89",
+    "index": 4,
+    "guid": "a9e69385-4135-4115-84f1-f4e6b6ad54c5",
+    "isActive": false,
+    "balance": "$3,035.24",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "blue",
+    "name": "Spencer Chavez",
+    "gender": "male",
+    "company": "SUPPORTAL",
+    "email": "spencerchavez@supportal.com",
+    "phone": "+1 (931) 511-3336",
+    "address": "804 Bartlett Street, Robinson, Nebraska, 114",
+    "about": "Non ipsum amet eiusmod occaecat duis non. Fugiat excepteur cupidatat ad nulla aliquip irure irure magna cupidatat consequat et fugiat. Esse enim sit aliqua non eiusmod commodo duis tempor. Voluptate esse duis tempor ad amet cupidatat fugiat et enim et commodo. Non elit dolore ullamco sunt id tempor exercitation qui. Adipisicing culpa ipsum nulla nisi sunt ipsum.\r\n",
+    "registered": "2017-01-01T02:13:56 -09:00",
+    "latitude": -66.835218,
+    "longitude": 105.380618,
+    "tags": [
+      "sint",
+      "adipisicing",
+      "sunt",
+      "eu",
+      "velit",
+      "non",
+      "fugiat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Adams Valencia"
+      },
+      {
+        "id": 1,
+        "name": "Martin Dale"
+      },
+      {
+        "id": 2,
+        "name": "Jacqueline Lynn"
+      }
+    ],
+    "greeting": "Hello, Spencer Chavez! You have 9 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
